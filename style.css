@@ -1,0 +1,10 @@
+.firdt{
+    width: 100%;
+    height: 100vh;
+    background: #04192d;
+    color: #fff;
+    display:flex;
+    align-items: center;
+    justify-content: center;
+
+}
